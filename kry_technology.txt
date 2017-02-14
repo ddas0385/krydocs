@@ -1,0 +1,34 @@
+Softwares
+
+--Operating System
+Ubuntu Linux
+Android
+
+--VM
+JAVA SE Development Kit
+Node.js
+MEAN.JS
+
+--Libraries
+ExpressJS
+AngularJS
+
+--Database
+MongoDB
+
+--IDE
+Android Studio
+Brackets
+RoboMongo
+
+--Communication
+Google Cloud Messaging
+
+--UML Modelling
+Umbrello
+
+--Source Control
+Git
+
+--Others
+android backup extractor

@@ -1,0 +1,40 @@
+1. Soul
+2. Mind
+3. Body
+4. World
+
+4. World
+	4.1 i/p - Information
+		4.1.1 Information - Source (SMS, Email, Internet, Interprocess Communication, Interactive)
+		4.1.2 Information - Type (Personal - Credentials and Data, Financial, Events and Reminders, Ad Offers and Discounts)
+	4.2 o/p - Data, Services, Visualization, Trend Analysis, Predictive Modelling
+
+3. Body
+	3.1 Adapter for Information - Source
+		3.1.1 Read One
+		3.1.2 Read All
+		- List<Source Data>
+	3.2 Identify Information - Type
+	3.3 Module for Processing Information - Type
+	3.4 Source Data to Staging Table
+	3.5 Staging Table to Server (Mind)
+	3.6 Server (Mind) to Final Table
+	3.7 Final Table to Data Mart
+	3.8 Data Mart to Visualization
+	3.9 Trend Analysis and Predictions
+
+2. Mind
+	2.1 Type of Data to be Stored
+		2.1.1 User Credentials
+		2.1.2 User Personal Data
+		2.1.3 User Data
+		2.1.4 Master Data
+	2.2 Type of Communication between Body and Mind
+		2.2.1 MQTT or GCM for Push Notify from Server to Client
+		2.2.2 HTTPS for fetching from Server to Client
+	2.3 Type of Tasks to be Performed
+		2.3.1 Authenticate and Authorize Users
+		2.3.2 Generate Master Data from User Data
+		2.3.3 Push Master Data to Clients
+		2.3.3 Use User Data for Trend Analysis and Predictive Modelling
+		2.3.4 Provide Data Services
